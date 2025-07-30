@@ -20,3 +20,5 @@ Here are examples:
 #### This is an H4
 ##### This is an H5
 ###### This is an H6
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
