@@ -30,3 +30,9 @@ def greet():
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+## ✅ My Markdown To-Do List
+
+- [ ] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
