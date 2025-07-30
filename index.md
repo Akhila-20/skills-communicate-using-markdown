@@ -22,3 +22,11 @@ Here are examples:
 ###### This is an H6
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```python
+def greet():
+    print("Hello, Markdown!")
+```
+``` javascript
+var myVar = "Hello, world!";
+```
